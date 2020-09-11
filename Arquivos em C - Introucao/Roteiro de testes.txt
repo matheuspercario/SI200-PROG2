@@ -1,0 +1,10 @@
+Teste 1(int) na pasta INT:
+Faça com o programa Bin Leitura e Escrita abertos.
+Faça com o programa txt Leitura e Escrita abertos.
+
+Teste 2(struct) na pasta STRUCT:
+Faça com o programa Bin Leitura e Escrita abertos.
+Faça com o programa txt Leitura e Escrita abertos.
+
+Teste 2(fseek)na pasta STRUCT:
+Faça com o programa Bin Leitura e Fseek abertos.
